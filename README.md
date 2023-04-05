@@ -23,3 +23,17 @@ The development environment as follows:
 - [vs code](https://code.visualstudio.com/) as my IDE -all the free one are bad in my own opinion-
 - `g++` as the compiler
 - `gdb` as the debugger
+
+## Course Recommended CPP GuideLines
+
+- [CPP Core Guidelines](https://github.com/isocpp/CppCoreGuidelines)
+- [Google Guidelines](https://google.github.io/styleguide/cppguide.html)
+
+## Course Recommended Reading
+
+This is a [Quora Question](https://www.quora.com/Which-is-the-best-book-to-learn-the-concepts-of-object-oriented-programming/answer/Edson-Soares-29?ch=10&share=48be4029&srid=K5A9H#_=_) with some important recommendation for books on OOP and Software Engineering in General.
+
+| Book                                           | Cover                                |
+|------------------------------------------------|--------------------------------------|
+|[Head First Object-Oriented Design and Analysis](https://www.amazon.com/Head-First-Object-Oriented-Analysis-Design/dp/0596008678) | ![Book Cover](./assets/HeadFirst_OOP.jpg) |
+| [Designing Data-Intensive Applications book](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321) | ![Cover](./assets/Data_Integsives.jpg)|
