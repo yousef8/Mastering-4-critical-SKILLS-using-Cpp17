@@ -1,8 +1,6 @@
-# Mastering 4 critical SKILLS using C++17
+# Yousef Learns Cpp17 and OOP
 
 ![C++ banner](./assets/banner.png)
-
-This repo contains all solutions for all assignments of [Mastering 4 critical SKILLS using C++ 17 course](https://www.udemy.com/course/cpp-4skills/)
 
 ## Usage
 
@@ -24,12 +22,7 @@ The development environment as follows:
 - `g++` as the compiler
 - `gdb` as the debugger
 
-## Course Recommended CPP GuideLines
-
-- [CPP Core Guidelines](https://github.com/isocpp/CppCoreGuidelines)
-- [Google Guidelines](https://google.github.io/styleguide/cppguide.html)
-
-## Course Recommended Reading
+## Future Reading
 
 This is a [Quora Question](https://www.quora.com/Which-is-the-best-book-to-learn-the-concepts-of-object-oriented-programming/answer/Edson-Soares-29?ch=10&share=48be4029&srid=K5A9H#_=_) with some important recommendation for books on OOP and Software Engineering in General.
 
